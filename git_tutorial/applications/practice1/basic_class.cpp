@@ -22,6 +22,4 @@ int main()
 {
     student mydet("jenishlin", 25);
     mydet.printdetails();
-    printf("");
-    printf("version 3");
 }
