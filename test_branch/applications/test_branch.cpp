@@ -1,1 +1,1 @@
-git fetching test
+git pull test
